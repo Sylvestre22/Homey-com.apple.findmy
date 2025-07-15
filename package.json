@@ -4,7 +4,7 @@
   "main": "app.js",
   "dependencies": {
     "@foxt/js-srp": "0.0.3-patch2",
-    "haversine-distance": "^1.2.3",
+    "haversine-distance": "^1.2.4",
     "homey-betterstack": "^0.3.5",
     "node-fetch": "^3.3.2",
     "tough-cookie": "^4.1.4"
