@@ -186,10 +186,10 @@ formdata-polyfill@^4.0.10:
   dependencies:
     fetch-blob "^3.1.2"
 
-haversine-distance@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/haversine-distance/-/haversine-distance-1.2.3.tgz#8414ab56a9fb85ecd5733c420d31294779f0f284"
-  integrity sha512-cRKtuukt+/fVprlLueX30mytMNtiQ4tff93FDW9yrBx3BYrq6gujiw1+hEaaxssKlOZTm8R3BPtMbNM+n0+bqQ==
+haversine-distance@^1.2.4:
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/haversine-distance/-/haversine-distance-1.2.4.tgz#4b64f6703594d0ad84b4d73f7c1123df188c7d23"
+  integrity sha512-8MHQBQXR7GXZJIvitCf/ux+gwLtWOxmXNNz5dReG+jJbuvaEoj6QIXlaIO3cPr433BFWM4jececJaLYpwxnZhg==
 
 homey-betterstack@^0.3.5:
   version "0.3.5"
